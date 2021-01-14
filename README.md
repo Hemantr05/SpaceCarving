@@ -17,4 +17,4 @@ The approach is specifically designed to:
 
 # Reference
 
-[a link][http://www.cs.cmu.edu/~seitz/papers/tr692.pdf]
+http://www.cs.cmu.edu/~seitz/papers/tr692.pdf

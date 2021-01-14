@@ -1,5 +1,10 @@
 # SpaceCarving
 
+
+
+Space carving is a technique to generate 3D object models from 2D images 
+
+
 The approach is specifically designed to:
 
 (1) build 3D shapes that allow faithful reproduction of all input photographs, 

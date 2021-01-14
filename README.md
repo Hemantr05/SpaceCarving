@@ -5,4 +5,4 @@
 
 # How to run
 
-`g++ carve.cpp -o carve `pkg-config --cflags --libs opencv` `
+``` g++ carve.cpp -o carve `pkg-config --cflags --libs opencv` ```
